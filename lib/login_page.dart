@@ -25,7 +25,7 @@ class Loginpage extends StatelessWidget {
 
                 // curved parent container
                 child: Container(
-                  height: 600,
+                  height: 700,
                   width: double.infinity,
                   color: Colors.white,
                   child: Column(
